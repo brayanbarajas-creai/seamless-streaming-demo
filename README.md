@@ -156,3 +156,6 @@ You should see the Seamless Streaming frontend interface.
 
 - **Scaling**:
   Consider running behind an AWS Load Balancer for multi-instance deployments.
+
+---
+## [Original Repo](https://huggingface.co/spaces/facebook/seamless-streaming/tree/main)
